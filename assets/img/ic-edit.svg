@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EditBtn" transform="translate(-6.000000, -6.000000)" fill="#FFFFFF">
+            <g id="Edit">
+                <g id="Group" filter="url(#filter-1)" transform="translate(7.000000, 7.000000)">
+                    <path d="M9.47842134,0.521656574 C9.09486297,0.135088771 8.56633765,-0.0491349483 8.01365118,0.011266271 C7.6089518,0.0565671855 7.23445386,0.249851087 6.94451997,0.536756879 L6.66666667,0.814602488 L9.18546731,3.33333333 L9.46030047,3.05850779 C9.76533508,2.75348163 9.96164448,2.35181352 9.99486608,1.9199448 C10.034128,1.39143413 9.84687899,0.890104012 9.47842134,0.521656574 Z" id="Path"></path>
+                    <polygon id="Path" points="0.399061033 7.1846543 0 10 2.8491784 9.64586847 8.75 3.71121417 6.29988263 1.25"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
